@@ -46,7 +46,7 @@ Just paste the following URL in your profile readme and you are good to go.
 **Pass your `username` in the URL**
 
 ```md
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-five.vercel.app/graph?username=pillowinacoma)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ```
 
 ### [Attention ⚠](#Deploy-on-your-own-heroku-instance)
